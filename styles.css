@@ -1,0 +1,79 @@
+h1{
+
+    color: aliceblue;
+    background-color: lightgreen;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    padding: 40px;
+    border: 3px solid aliceblue;
+    width: 200px;
+    height: 40px;
+    
+}
+
+#Sub{
+    color: brown;
+}
+
+.Enc-blue{
+    color: blue;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+span{
+    color: brown;
+    font-weight: bold;
+    
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: burlywood;
+    float: left;
+}
+
+.header{
+    width: 500px;
+    float: left;
+    height: 70px;
+    background-color: bisque;
+}
+
+.sidebar{
+    width: 100px;
+    float: left;
+    height: 700px;
+    background-color: darkkhaki;
+}
+
+.content{
+    width: 334px;
+    float: left;
+    height: 700px;
+    background-color: deeppink;
+}
+
+.footer{
+    width: 500px;
+    float: left;
+    height: 50px;
+    background-color: brown;
+}
